@@ -13,9 +13,9 @@ This project will demonstrate how collision detection works in panda3D and provi
 
 ### Dependencies : ###
 
-TkInter GUI package.
-Pygame cross-platform module.
-PIL (Python Imaging Library).
+-TkInter GUI package
+-Pygame cross-platform module
+-PIL (Python Imaging Library)
 
 
 
