@@ -29,6 +29,7 @@ Run the play.py file as follows
 $> python play.py
 ```
 
+![Screenshot](http://i58.tinypic.com/2chkklc.png)
 
 Title Screen Soundtrack: 9-bit Expedition : [Lifeformed](https://lifeformed.bandcamp.com/)
 
