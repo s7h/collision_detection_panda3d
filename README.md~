@@ -11,7 +11,7 @@ This project will demonstrate how collision detection works in panda3D and provi
 
 
 
-### Dependencies : ###
+Dependencies :
 
 TkInter GUI package
 Pygame cross-platform module
@@ -19,12 +19,6 @@ PIL (Python Imaging Library)
 
 
 
-### How to Run the project : ###
+How to Run the project :
 
 To run the project firstly install the panda3d SDK from [Panda3d.org](https://www.panda3d.org/download.php?sdk) for your respective platform. Then install all the dependencies that I have mentioned above.
-
-Run the play.py file as follows
-
-```
-$> python play.py
-```
